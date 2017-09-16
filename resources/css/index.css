@@ -1,3 +1,4 @@
+/*Shared attributes*/
 body {
   text-align: center;
   background: black;
@@ -19,6 +20,8 @@ p{
   font-size: 21px;
   color: gray;
 }
+
+/*individual attributes*/
 #link {
   color: aquamarine;
   font-size: 16px;
